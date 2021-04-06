@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2017
 ** my.h
 ** File description:
-** project ls
+** project my_hunter
 */
 #ifndef _MY_H_
 #define _MY_H_
